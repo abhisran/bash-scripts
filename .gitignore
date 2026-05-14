@@ -1,0 +1,17 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+!rootless-docker-configuration/dockerd.log # If we want to keep a template, but usually we don't.
+
+# Temp files
+*.tmp
+*.bak
+*~
